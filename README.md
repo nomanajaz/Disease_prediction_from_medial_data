@@ -62,8 +62,7 @@ The model will provide the likelihood of diabetes occurrence as a percentage and
 Feel free to fork this repository, make improvements, and submit a pull request. All contributions are welcome!
 
 ### License
-This project is licensed under the MIT License.
-
+© 2024 Noman Ajaz. All Rights Reserved
 ### Tags
-`#DiabetesPrediction` `#MachineLearning` `#RandomForest` `#HealthcareAI` `#MedicalData` `#HealthTech` `#DataScience` `#PreventiveMedicine` `#ModelEvaluation` #DataVisualization
+#DiabetesPrediction #MachineLearning #RandomForest #HealthcareAI #MedicalData #HealthTech #DataScience #PreventiveMedicine #ModelEvaluation #DataVisualization
 
