@@ -32,7 +32,7 @@ pip install pandas scikit-learn seaborn matplotlib
 ### Usage
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/diabetes-prediction-model.git
+    git clone https://github.com/nomanajaz/diabetes-prediction-model.git
     cd diabetes-prediction-model
     ```
 2. **Run the script**:
