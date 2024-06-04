@@ -2,10 +2,10 @@
 
 **Diabetes Prediction Model**
 
- Overview
+ **Overview**
 This project focuses on predicting the likelihood of diabetes based on medical data. Using a Random Forest classifier, the model analyzes various features such as symptoms, patient history, and other medical factors to provide accurate predictions. 
 
- Features
+ **Features**
 - Data Preprocessing: Handling missing values and feature scaling.
 - Model Training: Utilizing Random Forest algorithm with hyperparameter tuning via GridSearchCV.
 - Prediction: Predicting the likelihood of diabetes occurrence based on user input.
@@ -65,8 +65,5 @@ Feel free to fork this repository, make improvements, and submit a pull request.
 This project is licensed under the MIT License.
 
 ### Tags
-`#DiabetesPrediction` `#MachineLearning` `#RandomForest` `#HealthcareAI` `#MedicalData` `#HealthTech` `#DataScience` `#PreventiveMedicine` `#ModelEvaluation` `#DataVisualization`
+`#DiabetesPrediction` `#MachineLearning` `#RandomForest` `#HealthcareAI` `#MedicalData` `#HealthTech` `#DataScience` `#PreventiveMedicine` `#ModelEvaluation` #DataVisualization
 
----
-
-Feel free to adjust the repository URL, example values, and any other details as needed. This post provides a comprehensive overview of the project, including installation instructions, usage examples, and a brief description of the model's features.
